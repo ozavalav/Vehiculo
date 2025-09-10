@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Vehiculo.Domain/1.0.0": {
+        "runtime": {
+          "Vehiculo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vehiculo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

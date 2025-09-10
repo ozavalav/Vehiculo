@@ -1,0 +1,11 @@
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\bin\Debug\net9.0\Vehiculo.Domain.deps.json
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\bin\Debug\net9.0\Vehiculo.Domain.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\bin\Debug\net9.0\Vehiculo.Domain.pdb
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.AssemblyInfoInputs.cache
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.AssemblyInfo.cs
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\refint\Vehiculo.Domain.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.pdb
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\ref\Vehiculo.Domain.dll

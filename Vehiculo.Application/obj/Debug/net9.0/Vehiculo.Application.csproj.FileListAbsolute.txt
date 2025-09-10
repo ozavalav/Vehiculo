@@ -1,0 +1,15 @@
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\bin\Debug\net9.0\Vehiculo.Application.deps.json
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\bin\Debug\net9.0\Vehiculo.Application.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\bin\Debug\net9.0\Vehiculo.Application.pdb
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\bin\Debug\net9.0\Vehiculo.Domain.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\bin\Debug\net9.0\Vehiculo.Domain.pdb
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.csproj.AssemblyReference.cache
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.AssemblyInfoInputs.cache
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.AssemblyInfo.cs
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.csproj.CoreCompileInputs.cache
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.354DD31E.Up2Date
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\refint\Vehiculo.Application.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.pdb
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\ref\Vehiculo.Application.dll

@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Web\\Vehiculo.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj",
+        "projectName": "Vehiculo.Application",
+        "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj",
+        "packagesPath": "C:\\Users\\oscar.zavala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oscar.zavala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj": {
+                "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj",
+        "projectName": "Vehiculo.Domain",
+        "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj",
+        "packagesPath": "C:\\Users\\oscar.zavala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oscar.zavala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
+        "projectName": "Vehiculo.Infrastructure",
+        "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\oscar.zavala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oscar.zavala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj": {
+                "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj"
+              },
+              "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj": {
+                "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Web\\Vehiculo.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Web\\Vehiculo.Web.csproj",
+        "projectName": "Vehiculo.Web",
+        "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Web\\Vehiculo.Web.csproj",
+        "packagesPath": "C:\\Users\\oscar.zavala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oscar.zavala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj": {
+                "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj"
+              },
+              "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
