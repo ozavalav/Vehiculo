@@ -15,3 +15,4 @@ C:\Users\oscar.zavala\Vehiculo\Vehiculo.Infrastructure\obj\Debug\net9.0\Vehiculo
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Infrastructure\obj\Debug\net9.0\refint\Vehiculo.Infrastructure.dll
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Infrastructure\obj\Debug\net9.0\Vehiculo.Infrastructure.pdb
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Infrastructure\obj\Debug\net9.0\ref\Vehiculo.Infrastructure.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Infrastructure\obj\Debug\net9.0\Vehiculo.Infrastructure.sourcelink.json

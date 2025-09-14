@@ -578,11 +578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
       "projectName": "Vehiculo.Infrastructure",
-      "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\oscar.zavala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oscar.zavala\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -597,11 +597,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj": {
-              "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Application\\Vehiculo.Application.csproj"
+            "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Application\\Vehiculo.Application.csproj": {
+              "projectPath": "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Application\\Vehiculo.Application.csproj"
             },
-            "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj": {
-              "projectPath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Domain\\Vehiculo.Domain.csproj"
+            "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Domain\\Vehiculo.Domain.csproj": {
+              "projectPath": "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Domain\\Vehiculo.Domain.csproj"
             }
           }
         }

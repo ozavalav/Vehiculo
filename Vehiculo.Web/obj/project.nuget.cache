@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ewn0VWEMKE=",
+  "dgSpecHash": "zFpSvxrY9OY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Web\\Vehiculo.Web.csproj",
+  "projectFilePath": "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Web\\Vehiculo.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar.zavala\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
     "C:\\Users\\oscar.zavala\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.9\\microsoft.entityframeworkcore.9.0.9.nupkg.sha512",

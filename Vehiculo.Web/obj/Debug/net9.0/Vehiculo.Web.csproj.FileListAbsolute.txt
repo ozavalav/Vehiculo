@@ -50,3 +50,4 @@ C:\Users\oscar.zavala\Vehiculo\Vehiculo.Web\obj\Debug\net9.0\refint\Vehiculo.Web
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Web\obj\Debug\net9.0\Vehiculo.Web.pdb
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Web\obj\Debug\net9.0\Vehiculo.Web.genruntimeconfig.cache
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Web\obj\Debug\net9.0\ref\Vehiculo.Web.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Web\obj\Debug\net9.0\Vehiculo.Web.sourcelink.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDnL2lNh/lo=",
+  "dgSpecHash": "i6MUn4OzjY0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oscar.zavala\\Vehiculo\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\oscar.zavala\\VehiculoCleanArch\\Vehiculo.Infrastructure\\Vehiculo.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar.zavala\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.8\\microsoft.entityframeworkcore.9.0.8.nupkg.sha512",
     "C:\\Users\\oscar.zavala\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.8\\microsoft.entityframeworkcore.abstractions.9.0.8.nupkg.sha512",

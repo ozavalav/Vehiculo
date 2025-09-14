@@ -13,3 +13,4 @@ C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Ap
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\refint\Vehiculo.Application.dll
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.pdb
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\ref\Vehiculo.Application.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Application\obj\Debug\net9.0\Vehiculo.Application.sourcelink.json

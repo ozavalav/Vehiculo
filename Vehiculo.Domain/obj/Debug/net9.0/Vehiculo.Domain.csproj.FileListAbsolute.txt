@@ -9,3 +9,4 @@ C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\refint\Vehiculo.Domain.dll
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.pdb
 C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\ref\Vehiculo.Domain.dll
+C:\Users\oscar.zavala\Vehiculo\Vehiculo.Domain\obj\Debug\net9.0\Vehiculo.Domain.sourcelink.json
