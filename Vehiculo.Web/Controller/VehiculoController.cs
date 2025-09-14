@@ -25,4 +25,27 @@ public class VehiculosController : ControllerBase
         var created = await _service.CreateAsync(dto);
         return CreatedAtAction(nameof(Get), new { id = created.Id }, created);
     }
+
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetById(Guid id)
+    {
+        var v = await _service.GetByIdAsync(id);
+        return v == null ? NotFound() : Ok(v);
+    }
+
+    [HttpPut("{id}")]
+    public async Task<IActionResult> Put(Guid id, [FromBody] UpdateVehiculoDto dto)
+    {
+        if (id != dto.Id) return BadRequest("ID mismatch");
+        var updated = await _service.UpdateAsync(dto);
+        return updated == null ? NotFound() : Ok(updated);
+    }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> Delete(Guid id)
+    {
+        var ok = await _service.DeleteAsync(id);
+        return ok ? NoContent() : NotFound();
+    }    
+
 }

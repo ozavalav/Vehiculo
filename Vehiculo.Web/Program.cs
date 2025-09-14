@@ -5,6 +5,8 @@ using Vehiculo.Domain.Interfaces;
 using Vehiculo.Application.Services;
 using Vehiculo.Application.Commands;
 using Vehiculo.Application.Queries;
+
+
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllers();
@@ -18,6 +20,9 @@ builder.Services.AddScoped<IVehiculoRepository, VehiculoRepository>();
 // Handlers
 builder.Services.AddScoped<CreateVehiculoHandler>();
 builder.Services.AddScoped<GetVehiculosHandler>();
+builder.Services.AddScoped<GetVehiculoByIdHandler>();
+builder.Services.AddScoped<DeleteVehiculoHandler>();
+builder.Services.AddScoped<UpdateVehiculoHandler>();
 // Servicio de aplicación
 builder.Services.AddScoped<IVehiculoService, VehiculoService>();
 var app = builder.Build();
